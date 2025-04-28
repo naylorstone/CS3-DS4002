@@ -1,5 +1,6 @@
 # CS3-DS4002
-#Documentation Map
+# Documentation Map
+
 DATA Folder:
 Includes all required data needed for the case study, with the scripts of each of the first 7 STAR WARS movies. All data is in txt format.
 
@@ -13,12 +14,13 @@ Hook Document & Rubric
 The hook document includes relevant background information regarding the case study topic and objectives.
 The Rubric includes assignment details required to meet specifications.
 
-#Software and Platform
+# Software and Platform
+
 All coding was done in Python in Jupyter Notebooks using Windows 10 software. 
 The required packages and add-ons include: vaderSentiment, NRClex, Pandas, Numpy, matplotlib, tdqm notebook, nltk, punkt, wordnet, averaged_perceptron_tagger, stopwords, brown, vader_lexicon, opinion_lexicon, and punkt_tab
 
 
-#Instructions for reproducing results
+# Instructions for reproducing results
 
 Step 1: importing add ons
 Start by downloading vaderSentiment and NRClex from the internet and using pip install to use them in Python. 
@@ -45,5 +47,5 @@ Create a bar plot with the x-axis being each emotion and y-axis being the freque
 
 
 
-#Other Notes:
+# Other Notes:
 1. The articles section contains a review of the book used to comepare sentiment scores across generational differences in demeanr. For a more in depth view, look to borrow the book "Generations: The Real Differences Between Gen Z, Millennials, Gen X, Boomers, and Silents—and What They Mean for America's Future" by Jean Twenge.
